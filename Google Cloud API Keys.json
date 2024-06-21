@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-avenue-427018-f5",
+  "private_key_id": "0bf07b7f685f9eba43492557c9f460532ffdaee0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9LrWCWxg/yMQl\nl/a3PeG7uzn1CtNvy9/cUHlmyPMN1EF5V0o90X7mvpf+/ghxxWZnFmVWqImoGpmm\n3iPPzIm/vBE0WDTXcKBwTly5hYwFebcLk+JCjYWJu28VhCq/xvTHkqQ1JYqUepTx\nYslM/Kk/t04W5Y1CxcstMpbtDueBQ2xYBWBRmndpcgRcQmg+fBmOIhIlMRTEsBih\n7zbBY5XhSHtbcjxhVfnKfZbpk2Q6IwlfSPZPUM/RPseTC3GlEY3lPqo/E4KGv+Iv\nivMaELDfGaLZToYdC7Mf++8IktcRcAtVKK+stiEPIkpgb5UsuuhkurEtozA6w1wR\nho+7IJzVAgMBAAECggEAEqzGUClSTUf+5nMho9itxgyaXda4WB3fae34isclbxg+\nPY5g9S9CZq0qPFd/v+aSA3UetdCkHhfaH39oOGTjG2E8ryOFIj54J/3xG1AHXXcB\naCXGCd0GJKCzCFDoSc9UoVExeOmZ/3dstbnGg1BugkXdciP6fAmIbMLEsUwHJsEa\n1VrcQdWyRTYERWe3iRkF9B89saw+h04Iu/VPHAz8V0Vtbf/St1ztAzToYtrCJCc7\n7gdwDBSv/AdpOo69/KuOR0bJFxnHnJMY+ogK+rjIXuNim+axWxB7mI51ubOVjcme\n9WetVaHmIvFAQlHsohN5bGkD5s4COJmGoVRVklvTFQKBgQDze9ropDorOB5wuAoA\nKQy4p5MA3dQA7rgyIYjtMbJ/8nKXYdcV7Q+nSPEhyDPgqJzUpFoGZHx9OBuW9E/2\n9K/6MQOO2zpXk3AtMWRjOAT6etr7Mn4n6pgcTscSxEesA7A/sXVHd+U0GzJbs8zZ\nB1v8mtNF8cfp8YzCADQz++pWbwKBgQDG6EVX9BVSiyQctNEc8CEW462lsmGu+Lqa\ngII2vCxvuZkbCnQIpFwOO6trCIpkpLGATNs2RxBXWZpDr8HD6x1TvYcLfK4kT+9C\nPGsmXVefIwyqQoeB/JgQLftynS5t+iWS7u59Io6I5nGtZjtWiSoS+fMOZEssEOPh\nslxhs98C+wKBgQDEgjiaPDlKOl+u/4nquTawLWbicyYwnnoA07nsHYj/5JABh5CM\n/Kf+jks2xZrA/bSdlgumTyF9+nOh8Io9ORxyI27ItDyxA6isgMmRnlu+QLtNs2HI\nG3kql5Xpmopx1QRBU5rg1G4jELQi+Mkie+MMy3QqZkm/kRjWVk3LisyFdwKBgAfF\nCvBkmHCg/sggSArZVnGOczoFvcsX7DIc0vlQYGv80/46ak3sHaxwqEGGE+HajRR1\n7BoyrHC9D0mVk/wTMxISVTQdqq/Ab5gmxAi7nLCareP4tVJei5IWObxAZ4/kNZOH\nwckhkG/IkKg1VhwLP5l+KgBl6onOHxix3unyHMQBAoGBAIT/ZmekWXB9VAEEgZuz\ncV7wn0QGRUFopa5xQICjcz+2dKCBspI9MJ6rgzGFFkT4gwXKea7eOZRhsIT5GXXg\nVtIcO0fSw39IAy0ALzd9F/tmv2Cl9eI4ucvzzwUl4FjU2oJirCj8MuUrq4NZvYvi\nrqAZ1pHXH52gk22Lt8Fejxlv\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudvisionadmin@crypto-avenue-427018-f5.iam.gserviceaccount.com",
+  "client_id": "100675389884918083670",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudvisionadmin%40crypto-avenue-427018-f5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
