@@ -1,3 +1,25 @@
+import serial.tools.list_ports
+
+ports = serial.tools.list_ports.comports()
+serialInst = serial.Serial()
+
+portList = []
+
+for onePort in ports:
+    portList.append(str(onePort))
+    print(str(onePort), "-", str(onePort.description))
+
+val = input("select micro-controller port: ")
+
+for x in range(0, len(portList)):
+    if portList[x].startswith(f"/dev/cu.usbmodem{val}"):
+        serialInst.port = f"/dev/cu.usbmodem{val}"
+        serialInst.baudrate = 9600
+        serialInst.open()
+
+print("Connected to the selected micro-controller.")
+
+# Add the rest of your code here
 import os
 import cv2
 import threading
@@ -36,6 +58,7 @@ def process_image(image):
             for keyword, value in keywords.items():
                 if keyword in text.description:
                     print(f'{value}')
+                    serialInst.write(value.encode('utf-8'))
                     return
 
 def capture_and_process(frame):
