@@ -112,16 +112,16 @@ keywords = [
     "-SDF-", "-SDM-", "-SEE-", "-SER-", "-SFO-", "-SGH-", "-SLC-", "-SMF-", 
     "-STL-", "-STP-", "-TMB-", "-TTN-", "-TUL-", "-TUS-", "-TXK-", "-VNY-", 
     "-ZYP-", "-TAS-", "-VLI-", "-HAN-", "-SGN-", "-STT-", "-STX-", "-ADE-", 
-    "-SAH-", "-KIW-", "-LUN-", "-BUQ-", "-HRE-"
+    "-SAH-", "-KIW-", "-LUN-", "-BUQ-", "-HRE-","-RUH-"
 ]
 
 # Example image path
-image_path = 'Photo 4427.JPEG'
+image_path = 'IMG 4710 from Heic to JPEG.jpg'
 
 # Extract text from the image
 extracted_text = detect_text(image_path)
-#print("Extracted Text:")
-#print(extracted_text)
+print("Extracted Text:")
+print(extracted_text)
 
 # Check for keywords in the extracted text
 check_keywords(extracted_text, keywords)
