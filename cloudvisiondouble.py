@@ -43,4 +43,4 @@ keywords = {"-KBL-": "INVALID ", "-KDH-": "INVALID ", "-OAI-": "INVALID ", "-HME
 }
 
 
-detect_text(f'/Users/cys/git/DHL/imGESA/single.jpg',keywords)
+detect_text(f'/Users/cys/git/DHL/imGESA/captured_image.jpg',keywords)

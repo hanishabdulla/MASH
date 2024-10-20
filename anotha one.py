@@ -35,7 +35,7 @@ def process_image(image_path):
 
 # Initialize serial communication
 def init_serial():
-    selected_port = '/dev/tty.usbmodem1101'
+    selected_port = '/dev/tty.usbmodem11101'
     return serial.Serial(selected_port, 9600, timeout=1)
 
 # Monitor serial port

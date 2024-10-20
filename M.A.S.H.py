@@ -67,7 +67,7 @@ def process_image(image):
             detected_keywords.append(keyword)
 
     if len(detected_keywords) == 0:
-        #print("INVALID")
+        print("INVALID")
         serialInst.write("INVALID".encode('utf-8'))
     if len(detected_keywords) > 1:
         serialInst.write("INVALID".encode('utf-8'))
