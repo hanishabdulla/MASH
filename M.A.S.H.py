@@ -27,7 +27,7 @@ com=input("select micro-controller port: ")
 
 
 serialInst.baudrate= 9600
-serialInst.port= '/dev/tty.usbmodem11101'
+serialInst.port= '/dev/cu.usbmodem1401'
 serialInst.open()
 
 
